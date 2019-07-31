@@ -1,0 +1,7 @@
+input[type="checkbox"]{
+  width: 20px; /*Desired width*/
+  height: 20px; /*Desired height*/
+}
+.error{
+  color: red;
+}
